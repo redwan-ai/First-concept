@@ -1,5 +1,18 @@
-h2{
+h1{
     margin: 20px;
-    background-color: aquamarine;
-    color: rgb(31, 41, 188);
+    font-style: italic ;
+    font-weight: lighter;
+    font-size:42px;
+    font-famiy: 'Lular', 'Lucidanicode', Geneva, Verdana, sans-serif;
+ 
+    color: rgba(225, 164, 247, 0.512);
+}
+#head{
+    background-color: rgb(9, 44, 44);
+    height: 200px;
+    padding: 100px 10px;
+    text-align: center;
+    width: 500px;
+    margin: 40px 20px auto;
+
 }
