@@ -8,7 +8,6 @@ h1{
     color: rgb(220, 193, 255);
 }
 #head{
-    
     background-image: url(https://plus.unsplash.com/premium_photo-1682140993556-f263e434000b?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nfGVufDB8fDB8fHww); 
     height: 200px;
     padding: 100px 10px;
@@ -18,11 +17,17 @@ h1{
 }
 .hireme{
     background-color: rgba(203, 209, 187, 0.236);
+    color: aliceblue;
+    font-size: 17px;
+    font-palette: auto;
     border-radius: 12px;
     border-width: 3px;
     border-color: rgb(56, 211, 228);
     height: 50px;
     width: 150px;
-    font-size: 15px;
     padding: 15px 10px;
+}
+.hireme:hover{
+    background-color: rgba(250, 45, 219, 0.386);
+    transition: 1s;
 }
